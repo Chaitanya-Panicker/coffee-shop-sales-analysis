@@ -33,8 +33,12 @@
 **Size**  
   The portion size of the product sold, such as Small, Regular, or Large.
 
+  ---
+
 **Store Location**  
   The physical place or branch where the sale happened (e.g., Astoria, Hell’s Kitchen).
+
+  ---
 
 **Product Type**  
   The exact name of the product sold, like Brewed Chai Tea or Hot Chocolate.
