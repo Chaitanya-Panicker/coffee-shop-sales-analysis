@@ -1,5 +1,9 @@
 ## Key Data Fields & Business Terms
 
+This file contains the data fields used along with their business definitions. It explains the meaning, purpose, and context of each field so that anyone can have a clear understanding before analysis.
+
+---
+
 **Day Name**  
   The day of the week when the transaction took place (e.g., Monday, Tuesday).
 
