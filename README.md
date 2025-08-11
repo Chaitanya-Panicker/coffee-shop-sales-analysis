@@ -14,8 +14,8 @@
 - 📊 **Multi-dimensional Analysis**
 Sales tracking by hour, day, month, location, and product category
  
-- **Interactive Time Filters**
-Dynamic day & month selection for temporal analysis  
+**Interactive Time Filters**
+- Dynamic day & month selection for temporal analysis  
 - 🥐 **Product Performance Tracking** – Revenue insights for bakery, coffee, beans, chocolate, and tea categories  
 - 🗺 **Location-based Insights** – Performance comparison between Astoria, Hell's Kitchen, and Lower Manhattan  
 - 👥 **Customer Preference Analysis** – Order size distribution (Large, Regular, Small) with percentage breakdowns  
