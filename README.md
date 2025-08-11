@@ -2,73 +2,52 @@
 
 ---
 
-## 🎯 Overview  
-**Sales analytics dashboard** for a multi-location coffee shop chain, providing comprehensive insights into **sales performance**, **customer behavior patterns**, and **operational efficiency** across different time periods, locations, and product categories.
+## **Project Overview**  
+An interactive **sales analytics dashboard** for a multi-location coffee shop chain that delivers actionable insights into **sales performance**, **customer behavior**, and **operational efficiency** across time periods, locations, and product categories.
 
-> **Domain:** Retail & F&B (Food & Beverage) Analytics | **Type:** Sales & Operational BI Dashboard
-
----
-
-## ✨ Key Features  
-
-- **Multi-dimensional Analysis** – Sales tracking by hour, day, month, location, and product category
-
-- **Interactive Time Filters** – Dynamic day & month selection for temporal analysis
-  
-- **Product Performance Tracking** – Revenue insights for bakery, coffee, beans, chocolate, and tea categories
-    
-- **Location-based Insights** – Performance comparison between Astoria, Hell's Kitchen, and Lower Manhattan
-  
-- **Customer Preference Analysis** – Order size distribution (Large, Regular, Small) with percentage breakdowns
-  
-- **Peak Hour Identification** – Hourly transaction trends for staffing & inventory planning  
+> **Domain:** Retail & F&B (Food & Beverage) Analytics  
+> **Type:** Sales & Operational BI Dashboard
 
 ---
 
-## 🛠 Tools & Technologies Used  
-
-- **Data Visualization:** Excel (interactive dashboard creation & real-time analytics)
-   
-- **Charts Used:** Bar charts, pie charts, dual-axis charts, trend lines   
-
----
-
-## 📋 Project Steps  
-
-- **Data Collection** – Gathered transaction data from coffee shop excel file
-
-- **Data Cleaning** – Standardized product categories, locations & timestamps
-   
-- **Data Modeling** – Linked transactions, products, locations & time dimensions
-     
-- **Visualization Development** – Built interactive charts 
+## **Key Features**  
+- **Multi-Dimensional Analysis:** Track sales by hour, day, month, location, and product category.  
+- **Interactive Time Filters:** Switch dynamically between daily and monthly analysis.  
+- **Product Performance Tracking:** Analyze revenue across bakery, coffee, beans, chocolate, and tea categories.  
+- **Location-Based Insights:** Compare performance between Astoria, Hell's Kitchen, and Lower Manhattan.  
+- **Customer Preference Analysis:** View order size distribution (Large, Regular, Small) with percentage breakdowns.  
+- **Peak Hour Identification:** Identify busiest hours for staffing and inventory planning.  
 
 ---
 
-## 📈 Key Insights Delivered  
-
-- **Peak Operating Hours:** 8–11 AM → 300+ orders/hour
-  
-- **Product Mix Performance:** Coffee = 40% of sales, Bakery = 20%
-   
-- **Location Analysis:** Lower Manhattan = Highest revenue generator
-   
-- **Customer Preferences:** Regular size = 31% of total transactions
-   
-- **Seasonal Patterns:** Weekday & monthly trends help schedule promotions  
+## **Tools & Technologies Used**  
+- **Data Visualization:** Microsoft Excel (interactive dashboards & analytics).  
+- **Charts Used:** Bar charts, pie charts, dual-axis charts, trend lines.  
 
 ---
 
-## 🎯 Business Problems Solved  
+## **Project Steps**  
+- **Data Collection:** Gathered transaction data from coffee shop Excel file.  
+- **Data Cleaning:** Standardized product categories, locations, and timestamps.  
+- **Data Modeling:** Linked transactions, products, locations, and time dimensions.  
+- **Visualization Development:** Built interactive charts and slicers.  
 
-- **Operational Optimization:** Peak hour detection → staffing & inventory planning
-  
-- **Revenue Maximization:** Menu optimization based on product performance
-  
-- **Location Strategy:** Data-backed expansion decisions
-  
-- **Customer Experience:** Size preference analysis for pricing & portion control
-   
-- **Supply Chain Efficiency:** Demand forecasting to reduce waste & improve profit  
+---
+
+## **Key Insights Delivered**  
+- **Peak Operating Hours:** 8–11 AM → 300+ orders/hour.  
+- **Product Mix Performance:** Coffee = 40% of sales, Bakery = 20%.  
+- **Location Analysis:** Lower Manhattan is the highest revenue generator.  
+- **Customer Preferences:** Regular size = 31% of total transactions.  
+- **Seasonal Patterns:** Weekday & monthly trends inform promotional planning.  
+
+---
+
+## **Business Problems Solved**  
+- **Operational Optimization:** Peak hour detection improved staffing and inventory planning.  
+- **Revenue Maximization:** Menu optimization based on product performance.  
+- **Location Strategy:** Data-backed decisions for expansion.  
+- **Customer Experience:** Size preference analysis improved pricing and portion control.  
+- **Supply Chain Efficiency:** Demand forecasting reduced waste and improved profit margins.  
 
 ---
