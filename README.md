@@ -2,52 +2,64 @@
 
 ---
 
-## **Project Overview**  
-An interactive **sales analytics dashboard** for a multi-location coffee shop chain that delivers actionable insights into **sales performance**, **customer behavior**, and **operational efficiency** across time periods, locations, and product categories.
-
-> **Domain:** Retail & F&B (Food & Beverage) Analytics  
-> **Type:** Sales & Operational BI Dashboard
+## 📌 Project Overview
+The **Coffee Shop Sales Dashboard** is an interactive BI solution designed to analyze sales performance, customer preferences, and operational efficiency across multiple locations.  
+The dashboard provides decision-makers with real-time insights into **sales trends, peak order times, popular products, and location-based performance**.
 
 ---
 
-## **Key Features**  
-- **Multi-Dimensional Analysis:** Track sales by hour, day, month, location, and product category.  
-- **Interactive Time Filters:** Switch dynamically between daily and monthly analysis.  
-- **Product Performance Tracking:** Analyze revenue across bakery, coffee, beans, chocolate, and tea categories.  
-- **Location-Based Insights:** Compare performance between Astoria, Hell's Kitchen, and Lower Manhattan.  
-- **Customer Preference Analysis:** View order size distribution (Large, Regular, Small) with percentage breakdowns.  
-- **Peak Hour Identification:** Identify busiest hours for staffing and inventory planning.  
+## 📊 Key Visualizations
+- **Order by Hour** – Identifies peak customer activity times.
+- **Order by Product Category** – Shows revenue share from coffee, tea, bakery, etc.
+- **Order by Size** – Highlights distribution of cup sizes ordered.
+- **Order by Location** – Compares sales and order volumes across branches.
+- **Order by Product Type** – Details top-selling beverage types.
+- **Order by Days** – Shows daily order volume & revenue trends.
 
 ---
 
-## **Tools & Technologies Used**  
-- **Data Visualization:** Microsoft Excel (interactive dashboards & analytics).  
-- **Charts Used:** Bar charts, pie charts, dual-axis charts, trend lines.  
+## 🔍 Insights & Analysis
+1. **Peak Hours:** Most orders are placed between **8 AM - 10 AM**, aligning with morning rush.
+2. **Top Product Category:** **Coffee** accounts for **40% of total revenue**.
+3. **Popular Size:** Large & Regular sizes dominate sales (~61% combined).
+4. **Best Performing Location:** **Lower Manhattan** leads in total sales.
+5. **High Demand Products:** Barista Espresso and Brewed Chai Tea are strong sellers.
+6. **Consistent Daily Sales:** Orders remain steady throughout the week.
 
 ---
 
-## **Project Steps**  
-- **Data Collection:** Gathered transaction data from coffee shop Excel file.  
-- **Data Cleaning:** Standardized product categories, locations, and timestamps.  
-- **Data Modeling:** Linked transactions, products, locations, and time dimensions.  
-- **Visualization Development:** Built interactive charts and slicers.  
+## 🛠 Technologies Used
+- **Microsoft Excel** – Dashboard creation, Pivot Tables, and Charts.
+- **Data Cleaning & Aggregation** – Excel formulas and filters.
+- **Visualization Types** – Bar Charts, Pie Charts, Column Charts.
 
 ---
 
-## **Key Insights Delivered**  
-- **Peak Operating Hours:** 8–11 AM → 300+ orders/hour.  
-- **Product Mix Performance:** Coffee = 40% of sales, Bakery = 20%.  
-- **Location Analysis:** Lower Manhattan is the highest revenue generator.  
-- **Customer Preferences:** Regular size = 31% of total transactions.  
-- **Seasonal Patterns:** Weekday & monthly trends inform promotional planning.  
+## 📝 Project Steps
+1. **Data Preparation** – Cleaned and formatted raw transaction data.
+2. **Data Modeling** – Created pivot tables for aggregated metrics.
+3. **Visualization** – Built interactive charts for key metrics.
+4. **Dashboard Layout** – Arranged visuals with slicers for days & months.
+5. **Testing & Validation** – Checked data accuracy and filter responsiveness.
 
 ---
 
-## **Business Problems Solved**  
-- **Operational Optimization:** Peak hour detection improved staffing and inventory planning.  
-- **Revenue Maximization:** Menu optimization based on product performance.  
-- **Location Strategy:** Data-backed decisions for expansion.  
-- **Customer Experience:** Size preference analysis improved pricing and portion control.  
-- **Supply Chain Efficiency:** Demand forecasting reduced waste and improved profit margins.  
+## 🚀 How to Use
+1. Open the `.xlsx` file containing the dashboard.
+2. Use **Day Name** and **Month Name** slicers to filter results.
+3. Hover over charts for detailed values.
+4. Analyze peak sales times, top products, and best-performing locations.
+
+---
+
+## 📬 Contact
+**Author:** Chaitanya  
+**Email:** your.email@example.com  
+**LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)  
+
+---
+
+## 📄 License
+This project is licensed under the **MIT License** – you are free to use, modify, and distribute with attribution.
 
 ---
