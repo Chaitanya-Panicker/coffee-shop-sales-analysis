@@ -1,32 +1,22 @@
-# ☕ Coffee Shop Sales Dashboard
+# Coffee Shop Sales Dashboard
 
----
+## Project Overview
+Interactive business intelligence dashboard analyzing coffee shop sales performance across multiple dimensions including time, location, product categories, and customer preferences. Built to provide actionable insights for coffee shop operations and strategic decision-making.
 
-## 📌 Project Overview
-The **Coffee Shop Sales Dashboard** is an interactive BI solution designed to analyze sales performance, customer preferences, and operational efficiency across multiple locations.  
-The dashboard provides decision-makers with real-time insights into **sales trends, peak order times, popular products, and location-based performance**.
+## Key Visualizations
+- **Hourly Sales Trends**: Peak performance tracking with transaction volume analysis
+- **Product Category Distribution**: Revenue breakdown across Bakery, Coffee, Coffee Beans, Drinking Chocolate, and Tea
+- **Size Preferences**: Customer ordering patterns by drink sizes (Large, Regular, Small, Not Defined)
+- **Location Performance**: Comparative analysis across Astoria, Hell's Kitchen, and Lower Manhattan
+- **Product Type Analysis**: Detailed breakdown of specific items like Barista Espresso, Brewed Teas, and Gourmet items
+- **Daily Performance**: Weekly sales patterns and transaction volumes
 
----
-
-## 📊 Key Visualizations
-- **Order by Hour** – Identifies peak customer activity times.
-- **Order by Product Category** – Shows revenue share from coffee, tea, bakery, etc.
-- **Order by Size** – Highlights distribution of cup sizes ordered.
-- **Order by Location** – Compares sales and order volumes across branches.
-- **Order by Product Type** – Details top-selling beverage types.
-- **Order by Days** – Shows daily order volume & revenue trends.
-
----
-
-## 🔍 Insights & Analysis
-1. **Peak Hours:** Most orders are placed between **8 AM - 10 AM**, aligning with morning rush.
-2. **Top Product Category:** **Coffee** accounts for **40% of total revenue**.
-3. **Popular Size:** Large & Regular sizes dominate sales (~61% combined).
-4. **Best Performing Location:** **Lower Manhattan** leads in total sales.
-5. **High Demand Products:** Barista Espresso and Brewed Chai Tea are strong sellers.
-6. **Consistent Daily Sales:** Orders remain steady throughout the week.
-
----
+## Key Insights & Analysis
+- **Peak Hours**: Maximum activity observed between 8-11 AM, indicating strong morning rush business
+- **Top Category**: Coffee dominates sales at 40% of total revenue, followed by Tea at 28%
+- **Location Leader**: Lower Manhattan shows highest performance with $4,467 in total sales
+- **Size Preference**: Large sizes account for 31% of orders, indicating premium upselling opportunities
+- **Weekly Patterns**: Consistent performance across weekdays with potential weekend optimization
 
 ## 🛠 Technologies Used
 - **Microsoft Excel** – Dashboard creation, Pivot Tables, and Charts.
@@ -35,7 +25,7 @@ The dashboard provides decision-makers with real-time insights into **sales tren
 
 ---
 
-## 📝 Project Steps
+## Project Steps
 1. **Data Preparation** – Cleaned and formatted raw transaction data.
 2. **Data Modeling** – Created pivot tables for aggregated metrics.
 3. **Visualization** – Built interactive charts for key metrics.
@@ -44,7 +34,7 @@ The dashboard provides decision-makers with real-time insights into **sales tren
 
 ---
 
-## 🚀 How to Use
+## How to Use
 1. Open the `.xlsx` file containing the dashboard.
 2. Use **Day Name** and **Month Name** slicers to filter results.
 3. Hover over charts for detailed values.
@@ -52,14 +42,15 @@ The dashboard provides decision-makers with real-time insights into **sales tren
 
 ---
 
-## 📬 Contact
+## Contact
 **Author:** Chaitanya  
 **Email:** your.email@example.com  
 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)  
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
 ## 📄 License
 This project is licensed under the **MIT License** – you are free to use, modify, and distribute with attribution.
-
----
