@@ -1,8 +1,7 @@
 # ☕ Coffee Shop Sales Dashboard 
 
 ## 📖 Project Overview  
-In the fast-paced world of coffee retail, **understanding customer preferences and sales patterns** can mean the difference between a good month and a great one.  
-This project transforms **raw coffee shop sales data** into an **interactive Excel dashboard** that provides a clear view of product performance, location trends, and peak ordering times.  
+In the fast-paced world of coffee retail, **understanding customer preferences and sales patterns** can mean the difference between a good month and a great one. This project transforms **raw coffee shop sales data** into an **interactive Excel dashboard** that provides a clear view of product performance, location trends, and peak ordering times.  
 
 The dashboard equips managers and owners with actionable insights to **optimize inventory, pricing, and promotions** while delighting customers.  
 
