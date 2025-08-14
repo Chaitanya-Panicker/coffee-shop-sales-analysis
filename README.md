@@ -1,4 +1,6 @@
-# ☕ Coffee Shop Sales Dashboard 
+# ☕ Coffee Shop Sales Dashboard
+
+<img width="1737" height="701" alt="Screenshot 1" src="https://github.com/user-attachments/assets/2149f1d4-8fdf-4afb-9afe-43c2ebb76b2a" />
 
 ## 📖 Project Overview  
 In the fast-paced world of coffee retail, **understanding customer preferences and sales patterns** can mean the difference between a good month and a great one. This project transforms **raw coffee shop sales data** into an **interactive Excel dashboard** that provides a clear view of product performance, location trends, and peak ordering times.  
@@ -52,9 +54,9 @@ The dashboard equips managers and owners with actionable insights to **optimize 
 ---
 
 ## 📬 Contact  
-👤 **Your Name**  
-📧 your.email@example.com  
-🌐 [Your Portfolio Link]  
+👤 **Chaitanya Panicker**  
+📧 chaitanya.panicker98@gmail.com  
+🌐 https://www.linkedin.com/in/chaitanyapanicker  
 
 ---
 
